@@ -1,0 +1,18 @@
+# Python and Django specific patterns to ignore
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pkl
+*.egg-info/
+
+# Django-specific patterns
+/media/
+/static/
+/.env
+*.DS_Store
