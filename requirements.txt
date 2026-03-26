@@ -1,7 +1,5 @@
-Django==4.0.3
-
-# Additional dependencies can be added below
-
-# Example:
-# djangorestframework==3.12.4
-# psycopg2==2.9.2
+Django
+mysqlclient
+Pillow
+django-crispy-forms
+# Other eCommerce dependencies
